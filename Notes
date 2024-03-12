@@ -1,0 +1,4 @@
+I have made this game using Pygame , it includes a local shop for free color chaning and game logic handles keys
+S for shop opening and closing
+P for pause and continue
+Enter to start or start after restart 
